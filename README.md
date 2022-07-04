@@ -1,4 +1,4 @@
-<h1> dataTrainedProjects </h1>
+<h1> DataTrained Projects </h1>
 <p>This repositoyr contains projects completed during the Data Science Program</p>
 
 <strong>Requiremnets
